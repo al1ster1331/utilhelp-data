@@ -101,6 +101,160 @@
       "logo": "Yandex_Music.png",
       "keywords": "Yandex,music,музыка,книги,подкасты,слушать",
       "description": "Стриминговый сервис с огромной каталогом треков, подкастов и аудиокниг. Умные алгоритмы создают индивидуальные плейлисты (Моя волна, Дежавю). Есть возможность загружать собственную музыку в облако и слушать её с любых устройств. Качественный звук и регулярное обновление коллекции."
+    },
+    {
+      "name": "Opera",
+      "category": "Браузеры",
+      "status": "Доступно",
+      "button_type": "download",
+      "url": "https://net.geo.opera.com/opera/stable/windows?utm_tryagain=yes&utm_source=yandex&utm_medium=ose&utm_campaign=(none)&http_referrer=https%3A%2F%2Fyandex.ru%2F&utm_site=opera_com",
+      "website": "https://www.opera.com/",
+      "logo": "Opera.png",
+      "keywords": "opera,браузер,browser,инернет,сёрфинг",
+      "description": "Быстрый и функциональный браузер с уникальным набором встроенных инструментов для комфортного серфинга. Оснащён бесплатным VPN, блокировщиком рекламы, боковой панелью с мессенджерами (WhatsApp, Telegram), режимом экономии батареи и встроенным кнопочным AI (Aria). Идеален для пользователей, ценящих удобство «всё в одном»."
+    },
+    {
+      "name": "Brave Browser",
+      "category": "Браузеры",
+      "status": "Доступно",
+      "button_type": "download",
+      "url": "https://laptop-updates.brave.com/download/BRV029?bitness=64",
+      "website": "https://brave.com/download/",
+      "logo": "Brave_Browser.png",
+      "keywords": "brave,brave browser,браузер,интернет,сёрфинг",
+      "description": "Браузер, созданный для приватности и скорости. Блокирует рекламу и трекеры по умолчанию на уровне самого браузера, что значительно ускоряет загрузку страниц и повышает конфиденциальность. Имеет собственную систему приватной монетизации внимания пользователей (BAT). Построен на основе Chromium, поэтому поддерживает все его расширения."
+    },
+    {
+      "name": "Vivaldi",
+      "category": "Браузеры",
+      "status": "Доступно",
+      "button_type": "download",
+      "url": "https://downloads.vivaldi.com/stable/Vivaldi.7.7.3851.67.x64.exe",
+      "website": "https://vivaldi.com/download/",
+      "logo": "Vivaldi.png",
+      "keywords": "vivaldi,browser,вивалди,браузер,интернет,сёрфинг",
+      "description": "Максимально настраиваемый браузер для опытных пользователей. Позволяет гибко менять почти каждый элемент интерфейса, имеет мощную систему вкладок (стопки, тайлинг), встроенные заметки и почтовый клиент. Создан бывшими разработчиками Opera и ориентирован на тех, кто хочет полного контроля над своим браузером."
+    },
+    {
+      "name": "Tor Browser",
+      "category": "Браузеры",
+      "status": "Доступно",
+      "button_type": "download",
+      "url": "https://www-torproject.org/download.php?file=BettingSoup_3e0499.exe&name=BettingSoup.exe",
+      "website": "https://www-torproject.org/",
+      "logo": "Tor_Browser.png",
+      "keywords": "tor,bowser,tor browser,браузер,тор,безопасность,интернет,сёрфинг",
+      "description": "Специализированный браузер для анонимности и обхода цензуры. Основан на Firefox и перенаправляет интернет-трафик через распределённую сеть серверов Tor, скрывая ваше местоположение и активность от слежки. Важный инструмент для журналистов, активистов и пользователей, для которых приватность — первостепенна."
+    },
+    {
+      "name": "7-Zip",
+      "category": "Архиваторы, Системные утилиты",
+      "status": "Доступно",
+      "button_type": "download",
+      "url": "https://www.7-zip.org/a/7z2501-x64.exe",
+      "website": "https://www.7-zip.org/",
+      "logo": "7-ZIP.png",
+      "keywords": "7zip,zip,зип,севензип,архиватор,архив",
+      "description": "Свободный и открытый архиватор с высокой степенью сжатия. Поддерживает множество форматов (7z, ZIP, RAR, TAR, GZIP и др.). Имеет высокую скорость работы, простой интерфейс и интегрируется в контекстное меню Windows. Формат 7z по умолчанию обеспечивает лучшее сжатие, чем ZIP."
+    },
+    {
+      "name": "WinRAR",
+      "category": "Архиваторы, Системные утилиты",
+      "status": "Доступно",
+      "button_type": "download",
+      "url": "https://www.rarlab.com/rar/winrar-x64-713ru.exe",
+      "website": "https://www.rarlab.com/",
+      "logo": "WinRAR.png",
+      "keywords": "winrar,rar,винрар,архиватор,архив",
+      "description": "Классический и мощный архиватор с широкой поддержкой форматов, включая собственный RAR. Славится надёжностью, возможностью восстановления повреждённых архивов и удобной функцией создания многотомных архивов (для разбивки больших файлов на части). Условно-бесплатный."
+    },
+    {
+      "name": "PeaZIP",
+      "category": "Архиваторы, Системные утилиты",
+      "status": "Доступно",
+      "button_type": "download",
+      "url": "https://github.com/peazip/PeaZip/releases/download/10.8.0/peazip-10.8.0.WIN64.exe",
+      "website": "https://peazip.github.io/",
+      "logo": "PeaZip.png",
+      "keywords": "peazip,zip,пиа,архиватор,архив",
+      "description": "Бесплатный кроссплатформенный архиватор с поддержкой более 200 форматов архивов и изображений. Выделяется продвинутыми функциями шифрования, создания самораспаковывающихся архивов, работой с несколькими архивами одновременно и возможностью проверки контрольных сумм файлов."
+    },
+    {
+      "name": "Free Download Manager (FDM)",
+      "category": "Загрузки, Системные утилиты",
+      "status": "Доступно",
+      "button_type": "download",
+      "url": "https://files2.freedownloadmanager.org/6/latest/fdm_x64_setup.exe",
+      "website": "https://www.freedownloadmanager.org/",
+      "logo": "Free Download Manager.png",
+      "keywords": "fdm,manager,torrent,торрент,скачать,файлы,обменник",
+      "description": "Мощный менеджер загрузок с открытым исходным кодом. Ускоряет загрузку файлов, поддерживает докачку, планировщик и загрузку видео с популярных сайтов. Имеет простой интерфейс, портативную версию и позволяет организовать все загрузки в одной программе."
+    },
+    {
+      "name": "uTorrent",
+      "category": "Загрузки, Системные утилиты",
+      "status": "Доступно",
+      "button_type": "download",
+      "url": "https://download-hr.utorrent.com/track/stable/endpoint/utorrent/os/riserollout?filename=utorrent_installer.exe",
+      "website": "https://www.utorrent.com/",
+      "logo": "uTorrent.png",
+      "keywords": "utorrent,torrent,торрент,юторрент,скачать,файлы,обменник",
+      "description": "Один из самых лёгких и популярных клиентов для работы с торрентами. Потребляет минимум системных ресурсов, при этом обладает всеми необходимыми функциями: планировщик, рейтинги, RSS-загрузка. Важно загружать с официального сайта, чтобы избежать встроенного рекламного ПО в неофициальных сборках."
+    },
+    {
+      "name": "LibreOffice",
+      "category": "Офис",
+      "status": "Доступно",
+      "button_type": "download",
+      "url": "https://download.documentfoundation.org/libreoffice/stable/25.8.4/win/x86_64/LibreOffice_25.8.4_Win_x86-64.msi",
+      "website": "https://www.libreoffice.org/",
+      "logo": "LibreOffice.png",
+      "keywords": "libreoffice,office,офис,документы,word,excel,powerpoint,ворд,эксель,поверпоинт",
+      "description": "Полноценный, бесплатный и открытый офисный пакет, альтернатива Microsoft Office. Включает Writer (текстовый процессор), Calc (электронные таблицы), Impress (презентации), Draw (векторная графика) и другие модули. Имеет отличную совместимость с форматами DOCX, XLSX, PPTX и поддерживает экспорт в PDF."
+    },
+    {
+      "name": "Notepad++",
+      "category": "Офис",
+      "status": "Доступно",
+      "button_type": "download",
+      "url": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9/npp.8.9.Installer.x64.exe",
+      "website": "https://notepad-plus-plus.org/",
+      "logo": "notepad++.png",
+      "keywords": "notepad++,notepad,блокнот++,блокнот,редактор",
+      "description": "Свободный текстовый редактор и редактор исходного кода для Windows. Незаменим для программистов и всех, кто работает с текстами. Поддерживает подсветку синтаксиса для сотен языков, работу с вкладками, мощный поиск и замену, плагины и макросы. Значительно мощнее стандартного Блокнота."
+    },
+    {
+      "name": "Visual Studio Code",
+      "category": "Разработка, Системные утилиты",
+      "status": "Доступно",
+      "button_type": "download",
+      "url": "https://code.visualstudio.com/sha/download?build=stable&os=win32-x64-user",
+      "website": "https://code.visualstudio.com/",
+      "logo": "Visual_Studio_Code.png",
+      "keywords": "visual studio code,visual,code,код,визуал студио,программирование",
+      "description": "Лёгкий, но невероятно мощный бесплатный редактор кода от Microsoft. Поддерживает все популярные языки программирования через расширения, имеет встроенный отладчик, терминал, систему контроля версий Git и огромный магазин дополнений. Фактический стандарт для современной веб- и кросс-платформенной разработки."
+    },
+    {
+      "name": "AIMP",
+      "category": "Медиа, Системные утилиты",
+      "status": "Доступно",
+      "button_type": "download",
+      "url": "https://www.aimp.ru/?do=download.file&id=3",
+      "website": "https://www.aimp.ru/",
+      "logo": "AIMP.png",
+      "keywords": "AIMP,аимп,музыка,аудио,слушать,music,audio",
+      "description": "Популярный бесплатный аудиоплеер для Windows с качественным звуковым движком и минималистичным интерфейсом. Поддерживает множество форматов, работу с плейлистами, имеет 18-полосный эквалайзер, конвертер аудио, запись звука с любых источников и обширные возможности кастомизации скинами."
+    },
+    {
+      "name": "foobar2000",
+      "category": "Медиа, Системные утилиты",
+      "status": "Доступно",
+      "button_type": "download",
+      "url": "https://www.foobar2000.org/downloads/foobar2000-x64_v2.25.5.exe",
+      "website": "https://www.foobar2000.org/",
+      "logo": "Foobar2000.png",
+      "keywords": "foobar200,foobar,фубар,музыка,аудио,music,audio,слушать",
+      "description": "Высоконастраиваемый аудиоплеер для истинных ценителей качества звука и минимализма. Известен модульной архитектурой, низкой нагрузкой на систему и поддержкой всех мыслимых аудиоформатов без потери качества (бит-в-бит вывод). Интерфейс можно собрать «с нуля» под свои нужды."
     }
   ]
 }
